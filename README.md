@@ -1,1 +1,1 @@
-# slot.bash.academy
+# 20.cmder.net
